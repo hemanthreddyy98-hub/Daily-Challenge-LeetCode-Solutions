@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution(object):
-    def getFood(self, grid):
+class Solution:
+    def getFood(self, grid: List[List[str]]) -> int:
         m, n = len(grid), len(grid[0])
         self.best = float('inf')
 
@@ -34,8 +34,8 @@ Basic Approach
 
 from collections import deque
 
-class Solution(object):
-    def getFood(self, grid):
+class Solution:
+    def getFood(self, grid: List[List[str]]) -> int:
         m, n = len(grid), len(grid[0])
         queue = deque()
         visited = [[False] * n for _ in range(m)]
@@ -65,8 +65,8 @@ class Solution(object):
         return -1
 """
 
-class Solution(object):
-    def getFood(self, grid):
+class Solution:
+    def getFood(self, grid: List[List[str]]) -> int:
         m, n = len(grid), len(grid[0])
 
         start = -1
