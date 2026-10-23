@@ -106,6 +106,7 @@
 | [2070-most-beautiful-item-for-each-query](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2079-watering-plants](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2090-k-radius-subarray-averages](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -266,6 +267,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2090-k-radius-subarray-averages](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Design
 |  |
 | ------- |
