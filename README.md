@@ -38,6 +38,7 @@
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Counting
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [1975-maximum-matrix-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Prefix Sum
 |  |
 | ------- |
