@@ -101,6 +101,7 @@
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1860-incremental-memory-leak](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [1824-minimum-sideway-jumps](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1824-minimum-sideway-jumps) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Prefix Sum
 |  |
 | ------- |
