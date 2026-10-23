@@ -10,6 +10,7 @@
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1936-add-minimum-number-of-rungs](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1936-add-minimum-number-of-rungs) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -111,6 +113,7 @@
 | [1801-number-of-orders-in-the-backlog](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1845-seat-reservation-manager](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 ## Sorting
 |  |
 | ------- |
