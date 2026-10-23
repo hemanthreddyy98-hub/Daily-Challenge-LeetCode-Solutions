@@ -48,6 +48,7 @@
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
+| [1906-minimum-absolute-difference-queries](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1906-minimum-absolute-difference-queries) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -135,6 +136,7 @@
 | [1829-maximum-xor-for-each-query](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-largest-magic-square](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
+| [1906-minimum-absolute-difference-queries](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1906-minimum-absolute-difference-queries) |
 ## Sliding Window
 |  |
 | ------- |
