@@ -15,6 +15,7 @@
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [1824-minimum-sideway-jumps](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
