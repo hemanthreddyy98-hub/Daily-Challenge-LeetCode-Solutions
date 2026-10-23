@@ -17,6 +17,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2028-find-missing-observations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2028-find-missing-observations) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -256,6 +260,7 @@
 | [1958-check-if-move-is-legal](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1958-check-if-move-is-legal) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Depth-First Search
 |  |
 | ------- |
