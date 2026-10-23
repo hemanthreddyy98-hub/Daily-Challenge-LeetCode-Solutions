@@ -39,6 +39,7 @@
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -71,6 +72,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | ------- |
 | [1813-sentence-similarity-iii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
