@@ -69,6 +69,7 @@
 | [1958-check-if-move-is-legal](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1958-check-if-move-is-legal) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -121,6 +122,7 @@
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Simulation
 |  |
 | ------- |
