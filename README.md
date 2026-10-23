@@ -127,6 +127,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2145-count-the-hidden-sequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2145-count-the-hidden-sequences) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -300,6 +301,7 @@
 | [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2121-intervals-between-identical-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
+| [2145-count-the-hidden-sequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2145-count-the-hidden-sequences) |
 ## Sliding Window
 |  |
 | ------- |
