@@ -40,6 +40,7 @@
 | [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2109-adding-spaces-to-a-string](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2105-watering-plants-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -218,6 +220,7 @@
 | [2028-find-missing-observations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2028-find-missing-observations) |
 | [2079-watering-plants](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +242,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2105-watering-plants-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
