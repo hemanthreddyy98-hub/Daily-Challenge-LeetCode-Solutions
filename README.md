@@ -82,6 +82,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1895-largest-magic-square](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -232,6 +233,7 @@
 | [1801-number-of-orders-in-the-backlog](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1845-seat-reservation-manager](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
+| [1882-process-tasks-using-servers](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
