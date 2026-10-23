@@ -12,6 +12,7 @@
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1813-sentence-similarity-iii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1813-sentence-similarity-iii) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Counting
 |  |
 | ------- |
@@ -102,4 +103,5 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->
