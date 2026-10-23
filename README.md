@@ -29,6 +29,7 @@
 | [1813-sentence-similarity-iii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
+| [1824-minimum-sideway-jumps](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1824-minimum-sideway-jumps) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -55,6 +56,7 @@
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1792-maximum-average-pass-ratio) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1824-minimum-sideway-jumps](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1824-minimum-sideway-jumps) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [1813-sentence-similarity-iii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1813-sentence-similarity-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1824-minimum-sideway-jumps](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1824-minimum-sideway-jumps) |
 <!---LeetCode Topics End-->
