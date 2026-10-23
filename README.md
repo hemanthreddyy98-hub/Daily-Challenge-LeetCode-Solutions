@@ -20,6 +20,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2121-intervals-between-identical-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 ## Counting
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -173,6 +176,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -225,6 +229,7 @@
 | [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 ## Simulation
 |  |
 | ------- |
