@@ -21,6 +21,7 @@
 | [2121-intervals-between-identical-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Array
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [2145-count-the-hidden-sequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2145-count-the-hidden-sequences) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
