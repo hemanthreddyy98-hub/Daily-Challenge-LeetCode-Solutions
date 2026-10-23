@@ -15,6 +15,7 @@
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -111,6 +113,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -161,6 +164,7 @@
 | [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 ## Simulation
 |  |
 | ------- |
@@ -196,6 +200,7 @@
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
+| [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 ## Prefix Sum
 |  |
 | ------- |
