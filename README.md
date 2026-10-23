@@ -140,6 +140,7 @@
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -222,6 +223,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Simulation
 |  |
 | ------- |
@@ -324,6 +327,7 @@
 | [2100-find-good-days-to-rob-the-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2121-intervals-between-identical-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2145-count-the-hidden-sequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2145-count-the-hidden-sequences) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Sliding Window
 |  |
 | ------- |
@@ -355,6 +359,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Depth-First Search
 |  |
 | ------- |
