@@ -71,6 +71,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -89,6 +90,7 @@
 | [1937-maximum-number-of-points-with-cost](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1958-check-if-move-is-legal](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1958-check-if-move-is-legal) |
 | [1975-maximum-matrix-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 ## Binary Search
 |  |
@@ -177,6 +179,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Prefix Sum
 |  |
 | ------- |
