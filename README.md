@@ -17,6 +17,7 @@
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [1881-maximum-value-after-insertion](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1881-maximum-value-after-insertion) |
 ## Counting
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1881-maximum-value-after-insertion](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1881-maximum-value-after-insertion) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
