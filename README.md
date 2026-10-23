@@ -44,6 +44,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -80,6 +81,7 @@
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1881-maximum-value-after-insertion](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1881-maximum-value-after-insertion) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
