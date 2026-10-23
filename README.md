@@ -65,6 +65,7 @@
 | [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 | [1946-largest-number-after-mutating-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1946-largest-number-after-mutating-substring) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1958-check-if-move-is-legal](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1958-check-if-move-is-legal) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -81,6 +82,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1958-check-if-move-is-legal](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1958-check-if-move-is-legal) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 ## Binary Search
 |  |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [1958-check-if-move-is-legal](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1958-check-if-move-is-legal) |
 ## Depth-First Search
 |  |
 | ------- |
