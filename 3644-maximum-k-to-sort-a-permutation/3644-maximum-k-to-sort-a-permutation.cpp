@@ -26,7 +26,6 @@ public:
         return 0;
     }
 
-private:
     vector<int> parent;
 
     int find(int x) {
