@@ -20,6 +20,7 @@
 | [1881-maximum-value-after-insertion](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1881-maximum-value-after-insertion) |
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [1801-number-of-orders-in-the-backlog](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1860-incremental-memory-leak](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
