@@ -8,6 +8,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [1829-maximum-xor-for-each-query](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
+| [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -141,6 +144,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-largest-magic-square](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1906-minimum-absolute-difference-queries](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1906-minimum-absolute-difference-queries) |
+| [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Sliding Window
 |  |
 | ------- |
