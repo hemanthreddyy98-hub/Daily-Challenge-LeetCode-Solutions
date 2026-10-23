@@ -14,6 +14,7 @@
 | [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -138,6 +140,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Simulation
 |  |
 | ------- |
