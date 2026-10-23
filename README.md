@@ -19,6 +19,7 @@
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1881-maximum-value-after-insertion](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1881-maximum-value-after-insertion) |
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1860-incremental-memory-leak](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 ## Two Pointers
 |  |
 | ------- |
