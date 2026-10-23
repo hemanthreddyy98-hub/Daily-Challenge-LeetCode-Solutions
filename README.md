@@ -13,6 +13,7 @@
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -170,6 +173,7 @@
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,4 +246,8 @@
 |  |
 | ------- |
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
