@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def sortPermutation(self, nums: List[int]) -> int:
+class Solution(object):
+    def sortPermutation(self, nums):
         n = len(nums)
         if all(nums[i] == i for i in range(n)):
             return 0
@@ -28,8 +28,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def sortPermutation(self, nums: List[int]) -> int:
+class Solution(object):
+    def sortPermutation(self, nums):
         n = len(nums)
         if all(nums[i] == i for i in range(n)):
             return 0
@@ -39,8 +39,8 @@ class Solution:
         return 0
 """
 
-class Solution:
-    def sortPermutation(self, nums: List[int]) -> int:
+class Solution(object):
+    def sortPermutation(self, nums):
         ans = -1
         for i, v in enumerate(nums):
             if v != i:
