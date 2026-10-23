@@ -320,4 +320,8 @@
 |  |
 | ------- |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+## Linked List
+|  |
+| ------- |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 <!---LeetCode Topics End-->
