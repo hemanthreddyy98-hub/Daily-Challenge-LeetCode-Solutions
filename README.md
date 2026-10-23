@@ -91,6 +91,7 @@
 | [2017-grid-game](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2017-grid-game) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2028-find-missing-observations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2028-find-missing-observations) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -183,6 +184,7 @@
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1860-incremental-memory-leak](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2028-find-missing-observations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2028-find-missing-observations) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2028-find-missing-observations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2028-find-missing-observations) |
 ## Two Pointers
 |  |
 | ------- |
