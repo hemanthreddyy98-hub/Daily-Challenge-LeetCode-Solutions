@@ -50,6 +50,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
 | [1906-minimum-absolute-difference-queries](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1906-minimum-absolute-difference-queries) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -132,6 +133,7 @@
 | ------- |
 | [1824-minimum-sideway-jumps](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Prefix Sum
 |  |
 | ------- |
