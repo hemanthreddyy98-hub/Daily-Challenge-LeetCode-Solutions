@@ -53,6 +53,7 @@
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
 | [1906-minimum-absolute-difference-queries](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1906-minimum-absolute-difference-queries) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -95,6 +96,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1881-maximum-value-after-insertion](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1881-maximum-value-after-insertion) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Simulation
 |  |
 | ------- |
