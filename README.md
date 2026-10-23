@@ -11,6 +11,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [1936-add-minimum-number-of-rungs](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1936-add-minimum-number-of-rungs) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -122,6 +124,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [1906-minimum-absolute-difference-queries](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1906-minimum-absolute-difference-queries) |
 | [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1943-describe-the-painting](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1943-describe-the-painting) |
 ## Sliding Window
 |  |
 | ------- |
