@@ -242,6 +242,7 @@
 | [2070-most-beautiful-item-for-each-query](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Simulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Two Pointers
 |  |
 | ------- |
