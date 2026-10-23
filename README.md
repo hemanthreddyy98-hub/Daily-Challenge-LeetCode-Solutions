@@ -205,6 +205,7 @@
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Two Pointers
 |  |
 | ------- |
