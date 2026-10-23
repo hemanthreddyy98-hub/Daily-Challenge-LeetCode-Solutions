@@ -93,6 +93,7 @@
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2028-find-missing-observations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2028-find-missing-observations) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -135,6 +136,7 @@
 | [1829-maximum-xor-for-each-query](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1915-number-of-wonderful-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -246,12 +248,14 @@
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1958-check-if-move-is-legal](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1958-check-if-move-is-legal) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
