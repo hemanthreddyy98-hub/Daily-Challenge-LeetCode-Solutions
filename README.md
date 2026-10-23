@@ -23,6 +23,7 @@
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -218,6 +221,7 @@
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
