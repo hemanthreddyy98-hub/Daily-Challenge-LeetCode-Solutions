@@ -109,6 +109,7 @@
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2090-k-radius-subarray-averages](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2105-watering-plants-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -216,6 +217,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2028-find-missing-observations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2028-find-missing-observations) |
 | [2079-watering-plants](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 ## Math
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2105-watering-plants-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
