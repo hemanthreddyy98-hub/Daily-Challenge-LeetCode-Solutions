@@ -37,6 +37,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
 ## Counting
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -134,6 +136,7 @@
 | [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -241,6 +244,7 @@
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2017-grid-game](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2017-grid-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
 ## Sliding Window
 |  |
 | ------- |
