@@ -97,6 +97,7 @@
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -132,6 +133,7 @@
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -172,6 +174,7 @@
 | [1845-seat-reservation-manager](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Simulation
 |  |
 | ------- |
@@ -223,6 +227,7 @@
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
 | ------- |
