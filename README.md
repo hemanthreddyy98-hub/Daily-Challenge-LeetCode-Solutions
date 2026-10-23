@@ -70,6 +70,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1792-maximum-average-pass-ratio) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
+| [1845-seat-reservation-manager](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +105,8 @@
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+## Design
+|  |
+| ------- |
+| [1845-seat-reservation-manager](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
 <!---LeetCode Topics End-->
