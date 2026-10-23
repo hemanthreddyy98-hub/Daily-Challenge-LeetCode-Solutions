@@ -57,6 +57,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1936-add-minimum-number-of-rungs](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1936-add-minimum-number-of-rungs) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -72,6 +73,7 @@
 | [1895-largest-magic-square](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 ## Binary Search
 |  |
@@ -145,6 +147,7 @@
 | [1824-minimum-sideway-jumps](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 ## Prefix Sum
 |  |
 | ------- |
