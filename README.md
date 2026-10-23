@@ -85,11 +85,13 @@
 | ------- |
 | [1801-number-of-orders-in-the-backlog](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1860-incremental-memory-leak](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
 ## Math
 |  |
 | ------- |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1860-incremental-memory-leak](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
 ## Two Pointers
 |  |
 | ------- |
