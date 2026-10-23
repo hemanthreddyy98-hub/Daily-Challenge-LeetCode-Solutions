@@ -67,6 +67,7 @@
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1958-check-if-move-is-legal](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1958-check-if-move-is-legal) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -117,6 +118,7 @@
 | [1936-add-minimum-number-of-rungs](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1936-add-minimum-number-of-rungs) |
 | [1946-largest-number-after-mutating-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1946-largest-number-after-mutating-substring) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1845-seat-reservation-manager](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Sorting
 |  |
 | ------- |
