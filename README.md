@@ -108,6 +108,7 @@
 | [2079-watering-plants](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2090-k-radius-subarray-averages](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -248,6 +249,7 @@
 | [2008-maximum-earnings-from-taxi](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [2017-grid-game](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2017-grid-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Sliding Window
 |  |
 | ------- |
