@@ -41,6 +41,7 @@
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2109-adding-spaces-to-a-string](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -321,10 +323,12 @@
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
 |  |
 | ------- |
