@@ -42,6 +42,7 @@
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2109-adding-spaces-to-a-string](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [2079-watering-plants](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Math
 |  |
 | ------- |
