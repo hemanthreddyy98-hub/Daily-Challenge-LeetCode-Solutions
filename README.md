@@ -100,6 +100,7 @@
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2055-plates-between-candles) |
+| [2059-minimum-operations-to-convert-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2059-minimum-operations-to-convert-number) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -111,6 +112,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2059-minimum-operations-to-convert-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2059-minimum-operations-to-convert-number) |
 ## Matrix
 |  |
 | ------- |
