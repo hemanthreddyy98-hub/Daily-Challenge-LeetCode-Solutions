@@ -7,6 +7,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1829-maximum-xor-for-each-query](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [1845-seat-reservation-manager](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Backtracking
 |  |
 | ------- |
