@@ -270,6 +270,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -343,6 +344,7 @@
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 ## Depth-First Search
 |  |
 | ------- |
