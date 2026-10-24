@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def countDaysTogether(self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str) -> int:
+class Solution(object):
+    def countDaysTogether(self, arriveAlice, leaveAlice, arriveBob, leaveBob):
         days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
         count = 0
         for m in range(1, 13):
@@ -16,8 +16,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def countDaysTogether(self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str) -> int:
+class Solution(object):
+    def countDaysTogether(self, arriveAlice, leaveAlice, arriveBob, leaveBob):
         days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
         def to_day(date):
@@ -29,8 +29,8 @@ class Solution:
         return max(0, end - start + 1)
 """
 
-class Solution:
-    def countDaysTogether(self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str) -> int:
+class Solution(object):
+    def countDaysTogether(self, arriveAlice, leaveAlice, arriveBob, leaveBob):
         start = max(arriveAlice, arriveBob)
         end = min(leaveAlice, leaveBob)
         if start > end:
