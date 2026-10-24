@@ -53,6 +53,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
+| [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Counting
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
 | ------- |
