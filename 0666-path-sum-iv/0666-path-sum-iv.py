@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def pathSum(self, nums: List[int]) -> int:
+class Solution(object):
+    def pathSum(self, nums):
         total = 0
         for x in nums:
             d, p = x // 100, x // 10 % 10
@@ -21,8 +21,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def pathSum(self, nums: List[int]) -> int:
+class Solution(object):
+    def pathSum(self, nums):
         tree = {x // 10: x % 10 for x in nums}
 
         def dfs(d, p, s):
@@ -38,8 +38,8 @@ class Solution:
         return dfs(1, 1, 0)
 """
 
-class Solution:
-    def pathSum(self, nums: List[int]) -> int:
+class Solution(object):
+    def pathSum(self, nums):
         leaves = [0] * 16
         ans = 0
         for x in reversed(nums):
