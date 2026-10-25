@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -69,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1730-shortest-path-to-get-food](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
