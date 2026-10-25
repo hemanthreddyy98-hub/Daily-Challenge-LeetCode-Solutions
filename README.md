@@ -25,6 +25,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
 | [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |
@@ -342,6 +344,7 @@
 | [2121-intervals-between-identical-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2145-count-the-hidden-sequences](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2145-count-the-hidden-sequences) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
 | ------- |
