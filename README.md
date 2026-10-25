@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
@@ -68,6 +69,7 @@
 ## Array
 |  |
 | ------- |
+| [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1730-shortest-path-to-get-food](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
@@ -375,6 +377,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1992-find-all-groups-of-farmland) |
@@ -400,6 +403,7 @@
 ## Tree
 |  |
 | ------- |
+| [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -414,6 +418,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## DP on Trees
