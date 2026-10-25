@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def closedIsland(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def closedIsland(self, grid):
         m, n = len(grid), len(grid[0])
         count = 0
         for i in range(m):
@@ -33,8 +33,8 @@ Better Approach
 
 import sys
 
-class Solution:
-    def closedIsland(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def closedIsland(self, grid):
         sys.setrecursionlimit(20000)
         m, n = len(grid), len(grid[0])
 
@@ -62,8 +62,8 @@ class Solution:
         return count
 """
 
-class Solution:
-    def closedIsland(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def closedIsland(self, grid):
         m, n = len(grid), len(grid[0])
         q = [0] * (m * n)
         count = 0
