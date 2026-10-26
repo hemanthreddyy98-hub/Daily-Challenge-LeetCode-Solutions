@@ -150,6 +150,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Breadth-First Search
@@ -163,6 +164,7 @@
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2059-minimum-operations-to-convert-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2059-minimum-operations-to-convert-number) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -388,11 +391,13 @@
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
