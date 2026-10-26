@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def countIslands(self, grid: List[List[int]], k: int) -> int:
+class Solution(object):
+    def countIslands(self, grid, k):
         m, n = len(grid), len(grid[0])
         count = 0
         for i in range(m):
@@ -32,8 +32,8 @@ Better Approach
 
 from collections import deque
 
-class Solution:
-    def countIslands(self, grid: List[List[int]], k: int) -> int:
+class Solution(object):
+    def countIslands(self, grid, k):
         m, n = len(grid), len(grid[0])
         visited = [[False] * n for _ in range(m)]
         count = 0
@@ -56,8 +56,8 @@ class Solution:
         return count
 """
 
-class Solution:
-    def countIslands(self, grid: List[List[int]], k: int) -> int:
+class Solution(object):
+    def countIslands(self, grid, k):
         m, n = len(grid), len(grid[0])
         q = [0] * (m * n)
         count = 0
