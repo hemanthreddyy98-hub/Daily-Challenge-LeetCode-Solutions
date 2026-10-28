@@ -3,8 +3,8 @@ Brute Force
 
 import sys
 
-class Solution:
-    def minCost(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def minCost(self, grid):
         sys.setrecursionlimit(10000)
         m, n = len(grid), len(grid[0])
 
@@ -26,8 +26,8 @@ Better Approach
 
 import sys
 
-class Solution:
-    def minCost(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def minCost(self, grid):
         sys.setrecursionlimit(10000)
         m, n = len(grid), len(grid[0])
         memo = [[[-1] * 1024 for _ in range(n)] for _ in range(m)]
@@ -48,8 +48,8 @@ class Solution:
         return dfs(0, 0, grid[0][0])
 """
 
-class Solution:
-    def minCost(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def minCost(self, grid):
         m, n = len(grid), len(grid[0])
         dp = [set() for _ in range(n)]
         for i in range(m):
