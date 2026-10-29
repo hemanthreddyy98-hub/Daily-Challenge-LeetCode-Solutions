@@ -57,6 +57,7 @@
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
 | [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Breadth-First Search
@@ -209,6 +211,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -396,6 +399,7 @@
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -420,6 +424,7 @@
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -450,4 +455,16 @@
 |  |
 | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
