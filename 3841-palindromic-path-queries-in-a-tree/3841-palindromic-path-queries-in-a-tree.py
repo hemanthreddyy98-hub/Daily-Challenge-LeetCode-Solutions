@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def palindromePath(self, n: int, edges: List[List[int]], s: str, queries: List[str]) -> List[bool]:
+class Solution(object):
+    def palindromePath(self, n, edges, s, queries):
         g = [[] for _ in range(n)]
         for a, b in edges:
             g[a].append(b)
@@ -37,8 +37,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def palindromePath(self, n: int, edges: List[List[int]], s: str, queries: List[str]) -> List[bool]:
+class Solution(object):
+    def palindromePath(self, n, edges, s, queries):
         g = [[] for _ in range(n)]
         for a, b in edges:
             g[a].append(b)
@@ -74,8 +74,8 @@ class Solution:
         return ans
 """
 
-class Solution:
-    def palindromePath(self, n: int, edges: List[List[int]], s: str, queries: List[str]) -> List[bool]:
+class Solution(object):
+    def palindromePath(self, n, edges, s, queries):
         g = [[] for _ in range(n)]
         for a, b in edges:
             g[a].append(b)
