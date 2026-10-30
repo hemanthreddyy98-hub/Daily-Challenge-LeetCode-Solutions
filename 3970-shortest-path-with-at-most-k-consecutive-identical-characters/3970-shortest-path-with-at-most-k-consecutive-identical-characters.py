@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def shortestPath(self, n: int, edges: List[List[int]], labels: str, k: int) -> int:
+class Solution(object):
+    def shortestPath(self, n, edges, labels, k):
         INF = float('inf')
         dist = [[INF] * (k + 1) for _ in range(n)]
         dist[0][1] = 0
@@ -24,8 +24,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def shortestPath(self, n: int, edges: List[List[int]], labels: str, k: int) -> int:
+class Solution(object):
+    def shortestPath(self, n, edges, labels, k):
         g = [[] for _ in range(n)]
         for u, v, w in edges:
             g[u].append((v, w))
@@ -47,8 +47,8 @@ class Solution:
         return -1
 """
 
-class Solution:
-    def shortestPath(self, n: int, edges: List[List[int]], labels: str, k: int) -> int:
+class Solution(object):
+    def shortestPath(self, n, edges, labels, k):
         g = [[] for _ in range(n)]
         for u, v, w in edges:
             g[u].append((v, w))
