@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def uniquePaths(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def uniquePaths(self, grid):
         MOD = 10**9 + 7
         m, n = len(grid), len(grid[0])
 
@@ -23,8 +23,8 @@ Better Approach
 
 import sys
 
-class Solution:
-    def uniquePaths(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def uniquePaths(self, grid):
         sys.setrecursionlimit(10000)
         MOD = 10**9 + 7
         m, n = len(grid), len(grid[0])
@@ -45,8 +45,8 @@ class Solution:
         return dfs(0, 0, 0)
 """
 
-class Solution:
-    def uniquePaths(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def uniquePaths(self, grid):
         MOD = 10**9 + 7
         m, n = len(grid), len(grid[0])
         r, d = [0] * n, [0] * n
